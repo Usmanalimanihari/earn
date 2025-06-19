@@ -1,1 +1,16 @@
-{}
+{
+    "123456789": {
+        "balance": 0,
+        "last_earn": 0,
+        "referrals": 0,
+        "ref_code": "abc123def",
+        "referred_by": null
+    },
+    "987654321": {
+        "balance": 50,
+        "last_earn": 1630000000,
+        "referrals": 1,
+        "ref_code": "xyz789uvw",
+        "referred_by": "123456789"
+    }
+}{}
